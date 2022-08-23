@@ -1,0 +1,7 @@
+{
+    "name": "shaojunjie/test1",
+    "description": "testing",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "require": {}
+}
